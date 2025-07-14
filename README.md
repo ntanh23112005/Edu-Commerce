@@ -56,4 +56,4 @@ Build the server
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/ntanh23112005/Edu-Commerce/blob/main/LICENSE)
