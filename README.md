@@ -5,7 +5,7 @@ Dự án mua khóa học tích hợp ChatBot giúp hỗ trợ các học giả m
 
 ## Demo
 
-Link Demo
+[Booking-edu](https://booking-edu.vercel.app/)
 
 ## Features
 
